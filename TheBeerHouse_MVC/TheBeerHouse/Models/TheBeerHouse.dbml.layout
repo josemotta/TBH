@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 18.5, 16" name="TheBeerHouse">
+  <DataContextMoniker Name="/TheBeerHouseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="3b436a5d-2ceb-4581-9f8a-0523e14d3ae1" absoluteBounds="3.5, 6, 2, 4.6554182942708318">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Article" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b1f8c2c0-0842-4ee5-9150-e2fc890301d6" absoluteBounds="3.515, 6.46, 1.9700000000000002, 4.095418294270833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f0ff6911-c3e6-4538-88de-6e034f84c165" absoluteBounds="16.25, 1, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/ShippingMethod" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4980355d-d43e-4d3c-bdb9-78d6e9b68c29" absoluteBounds="16.265, 1.4600000000000009, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ae8d9a19-3ed6-497d-b758-be38da3c7889" absoluteBounds="0.75, 7.25, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fe6a7d86-4c33-433b-a5bd-839a899efe31" absoluteBounds="0.765, 7.71, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc11472f-371e-43c2-a715-bbd750c52682" absoluteBounds="6.25, 7.25, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Comment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="06202dfc-8873-4ba6-bfae-5bae9b5c8ba7" absoluteBounds="6.265, 7.71, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3770c31b-2a08-4b81-9f1a-3b649f3bd2e0" absoluteBounds="10.75, 1, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Department" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f2529fdf-4527-493d-b48b-bb0f191ef6f8" absoluteBounds="10.765, 1.46, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53a2e1db-85be-4675-a4e2-cd62cd311cdb" absoluteBounds="13.5, 5.625, 2, 2.5401025390624996">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/OrderItem" />
+      <nestedChildShapes>
+        <elementListCompartment Id="add455a2-cce0-49e8-a55a-06174deb111a" absoluteBounds="13.515, 6.085, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="004deb9c-30e2-424c-8fa6-ea4816af58ed" absoluteBounds="9.75, 11.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Country" />
+      <nestedChildShapes>
+        <elementListCompartment Id="80a17902-93f9-4139-af2c-350e23ab87ed" absoluteBounds="9.765, 12.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="25b98e5b-6d68-4d8a-9810-67e71383711a" absoluteBounds="12.75, 10.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Language" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e975c83-d1de-48e2-8136-fad9976833f3" absoluteBounds="12.765, 11.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="48b9c4e9-56ea-4ac2-b82b-1eb5f3818a68" absoluteBounds="12.75, 12.75, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Occupation" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ec9c1c78-5805-45c5-b225-16dd59abe089" absoluteBounds="12.765, 13.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="591b63e6-6751-4b6b-bf56-8cdceec0605e" absoluteBounds="3.5, 12.125, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/PollOption" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5812d0ff-3350-4cbb-b17e-17495f57a2ad" absoluteBounds="3.515, 12.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="92425948-cf34-457c-b124-3a4380f4bb3e" absoluteBounds="0.75, 12, 2, 2.3478011067708344">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Poll" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f8aff64e-0da7-4757-aeea-ff0bdaff866d" absoluteBounds="0.765, 12.46, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="26693c87-fab1-4345-b1a7-9703dde871ee" absoluteBounds="6.5, 13.375, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Newsletter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="14cb72f6-9f89-47cd-825a-93cc875efddf" absoluteBounds="6.5150000000000006, 13.835, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c4fe646c-5874-4508-8409-bed28acfe42f" absoluteBounds="3.5, 1, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Post" />
+      <nestedChildShapes>
+        <elementListCompartment Id="716c9df0-b4d6-4c83-9ac0-1a99bc6d0f3c" absoluteBounds="3.515, 1.46, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b5ef6a95-df08-4f9d-8d90-c6342f016c43" absoluteBounds="6.25, 2, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Vote" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e0481b6b-6354-4c9e-89ed-1a6fea0d6389" absoluteBounds="6.265, 2.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f26974d1-893f-4674-bdbd-79b6962f0cdb" absoluteBounds="0.75, 1.75, 2, 2.5401025390625005">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Forum" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1af17cb3-7d68-471e-b851-9cfc051fec4a" absoluteBounds="0.765, 2.21, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ad46a902-f159-4171-8154-31cd0b9b5c26" absoluteBounds="6.625, 11.375, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/LogInfo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c9be136a-6cb0-40f4-b2a3-09220ef7cc00" absoluteBounds="6.6400000000000006, 11.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d2c64690-a333-456f-8033-1710b0199f09" absoluteBounds="13.5, 1, 2, 4.2708154296874987">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0c890b69-9660-4048-80a7-bac502c34b70" absoluteBounds="13.515, 1.46, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fa699f01-dbf5-48b5-9f45-781d3eed2905" absoluteBounds="10.75, 4.125, 2, 3.1170068359375005">
+      <DataClassMoniker Name="/TheBeerHouseDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="97f78997-952e-4a92-a81a-06b60638be61" absoluteBounds="10.765, 4.585, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 8.42390055338542); (3.5 : 8.42390055338542)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Category/Category_Article" />
+      <nodes>
+        <classShapeMoniker Id="ae8d9a19-3ed6-497d-b758-be38da3c7889" />
+        <classShapeMoniker Id="3b436a5d-2ceb-4581-9f8a-0523e14d3ae1" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 8.32774983723958); (6.25 : 8.32774983723958)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Article/Article_Comment" />
+      <nodes>
+        <classShapeMoniker Id="3b436a5d-2ceb-4581-9f8a-0523e14d3ae1" />
+        <classShapeMoniker Id="cc11472f-371e-43c2-a715-bbd750c52682" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(14.5 : 5.2708154296875); (14.5 : 5.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Order/Order_OrderItem" />
+      <nodes>
+        <classShapeMoniker Id="d2c64690-a333-456f-8033-1710b0199f09" />
+        <classShapeMoniker Id="53a2e1db-85be-4675-a4e2-cd62cd311cdb" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 13.1065991210937); (3.5 : 13.1065991210937)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Poll/Poll_PollOption" />
+      <nodes>
+        <classShapeMoniker Id="92425948-cf34-457c-b124-3a4380f4bb3e" />
+        <classShapeMoniker Id="591b63e6-6751-4b6b-bf56-8cdceec0605e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.20923076923077 : 4.88621256510417); (4.20923076923077 : 5.13621256510417); (4.80461538461539 : 5.13621256510417); (4.80461538461539 : 4.88621256510417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Post/Post_Post" />
+      <nodes>
+        <classShapeMoniker Id="c4fe646c-5874-4508-8409-bed28acfe42f" />
+        <classShapeMoniker Id="c4fe646c-5874-4508-8409-bed28acfe42f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.02005126953125); (3.5 : 3.02005126953125)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Forum/Forum_Post" />
+      <nodes>
+        <classShapeMoniker Id="f26974d1-893f-4674-bdbd-79b6962f0cdb" />
+        <classShapeMoniker Id="c4fe646c-5874-4508-8409-bed28acfe42f" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.88544840494792); (6.25 : 2.88544840494792)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Post/Post_Vote" />
+      <nodes>
+        <classShapeMoniker Id="c4fe646c-5874-4508-8409-bed28acfe42f" />
+        <classShapeMoniker Id="b5ef6a95-df08-4f9d-8d90-c6342f016c43" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.75 : 3.15549967447917); (11.75 : 4.125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/TheBeerHouseDataContext/Department/Department_Product" />
+      <nodes>
+        <classShapeMoniker Id="3770c31b-2a08-4b81-9f1a-3b649f3bd2e0" />
+        <classShapeMoniker Id="fa699f01-dbf5-48b5-9f45-781d3eed2905" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

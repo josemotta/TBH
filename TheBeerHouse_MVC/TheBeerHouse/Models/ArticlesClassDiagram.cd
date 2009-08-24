@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TheBeerHouse.Models.Article">
+    <Position X="0.75" Y="4.75" Width="2.5" />
+    <Members>
+      <Field Name="_Abstract" Hidden="true" />
+      <Field Name="_AddedBy" Hidden="true" />
+      <Field Name="_AddedDate" Hidden="true" />
+      <Field Name="_Approved" Hidden="true" />
+      <Field Name="_ArticleID" Hidden="true" />
+      <Field Name="_Body" Hidden="true" />
+      <Field Name="_Category" Hidden="true" />
+      <Field Name="_CategoryID" Hidden="true" />
+      <Field Name="_City" Hidden="true" />
+      <Field Name="_Comments" Hidden="true" />
+      <Field Name="_CommentsEnabled" Hidden="true" />
+      <Field Name="_Country" Hidden="true" />
+      <Field Name="_ExpireDate" Hidden="true" />
+      <Field Name="_Listed" Hidden="true" />
+      <Field Name="_OnlyForMembers" Hidden="true" />
+      <Field Name="_Path" Hidden="true" />
+      <Field Name="_ReleaseDate" Hidden="true" />
+      <Field Name="_State" Hidden="true" />
+      <Field Name="_Title" Hidden="true" />
+      <Field Name="_TotalRating" Hidden="true" />
+      <Field Name="_ViewCount" Hidden="true" />
+      <Field Name="_Votes" Hidden="true" />
+      <Property Name="Abstract" Hidden="true" />
+      <Property Name="AddedBy" Hidden="true" />
+      <Property Name="AddedDate" Hidden="true" />
+      <Property Name="Approved" Hidden="true" />
+      <Method Name="Article" Hidden="true" />
+      <Property Name="ArticleID" Hidden="true" />
+      <Method Name="attach_Comments" Hidden="true" />
+      <Property Name="Body" Hidden="true" />
+      <Property Name="Category" Hidden="true" />
+      <Property Name="CategoryID" Hidden="true" />
+      <Property Name="City" Hidden="true" />
+      <Property Name="Comments" Hidden="true" />
+      <Property Name="CommentsEnabled" Hidden="true" />
+      <Property Name="Country" Hidden="true" />
+      <Method Name="detach_Comments" Hidden="true" />
+      <Field Name="emptyChangingEventArgs" Hidden="true" />
+      <Property Name="ExpireDate" Hidden="true" />
+      <Property Name="Listed" Hidden="true" />
+      <Method Name="OnAbstractChanged" Hidden="true" />
+      <Method Name="OnAbstractChanging" Hidden="true" />
+      <Method Name="OnAddedByChanged" Hidden="true" />
+      <Method Name="OnAddedByChanging" Hidden="true" />
+      <Method Name="OnAddedDateChanged" Hidden="true" />
+      <Method Name="OnAddedDateChanging" Hidden="true" />
+      <Method Name="OnApprovedChanged" Hidden="true" />
+      <Method Name="OnApprovedChanging" Hidden="true" />
+      <Method Name="OnArticleIDChanged" Hidden="true" />
+      <Method Name="OnArticleIDChanging" Hidden="true" />
+      <Method Name="OnBodyChanged" Hidden="true" />
+      <Method Name="OnBodyChanging" Hidden="true" />
+      <Method Name="OnCategoryIDChanged" Hidden="true" />
+      <Method Name="OnCategoryIDChanging" Hidden="true" />
+      <Method Name="OnCityChanged" Hidden="true" />
+      <Method Name="OnCityChanging" Hidden="true" />
+      <Method Name="OnCommentsEnabledChanged" Hidden="true" />
+      <Method Name="OnCommentsEnabledChanging" Hidden="true" />
+      <Method Name="OnCountryChanged" Hidden="true" />
+      <Method Name="OnCountryChanging" Hidden="true" />
+      <Method Name="OnCreated" Hidden="true" />
+      <Method Name="OnExpireDateChanged" Hidden="true" />
+      <Method Name="OnExpireDateChanging" Hidden="true" />
+      <Method Name="OnListedChanged" Hidden="true" />
+      <Method Name="OnListedChanging" Hidden="true" />
+      <Method Name="OnLoaded" Hidden="true" />
+      <Property Name="OnlyForMembers" Hidden="true" />
+      <Method Name="OnOnlyForMembersChanged" Hidden="true" />
+      <Method Name="OnOnlyForMembersChanging" Hidden="true" />
+      <Method Name="OnPathChanged" Hidden="true" />
+      <Method Name="OnPathChanging" Hidden="true" />
+      <Method Name="OnReleaseDateChanged" Hidden="true" />
+      <Method Name="OnReleaseDateChanging" Hidden="true" />
+      <Method Name="OnStateChanged" Hidden="true" />
+      <Method Name="OnStateChanging" Hidden="true" />
+      <Method Name="OnTitleChanged" Hidden="true" />
+      <Method Name="OnTitleChanging" Hidden="true" />
+      <Method Name="OnTotalRatingChanged" Hidden="true" />
+      <Method Name="OnTotalRatingChanging" Hidden="true" />
+      <Method Name="OnValidate" Hidden="true" />
+      <Method Name="OnViewCountChanged" Hidden="true" />
+      <Method Name="OnViewCountChanging" Hidden="true" />
+      <Method Name="OnVotesChanged" Hidden="true" />
+      <Method Name="OnVotesChanging" Hidden="true" />
+      <Property Name="Path" Hidden="true" />
+      <Event Name="PropertyChanged" Hidden="true" />
+      <Event Name="PropertyChanging" Hidden="true" />
+      <Property Name="ReleaseDate" Hidden="true" />
+      <Method Name="SendPropertyChanged" Hidden="true" />
+      <Method Name="SendPropertyChanging" Hidden="true" />
+      <Property Name="State" Hidden="true" />
+      <Property Name="Title" Hidden="true" />
+      <Property Name="TotalRating" Hidden="true" />
+      <Property Name="ViewCount" Hidden="true" />
+      <Property Name="Votes" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>SiUkQACDjIBJRlIYyAslAgARqLoEXAKggv65DCMRqKA=</HashCode>
+      <FileName>Models\Article.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheBeerHouse.Models.ArticleCollectionWrapper">
+    <Position X="3.5" Y="4.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ArticleCollectionWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TheBeerHouse.ArticleQueries">
+    <Position X="0.75" Y="0.5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAgAAAAAAAQQAAgAAAEAAAQIEAAAA=</HashCode>
+      <FileName>Models\ArticleQueries.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
