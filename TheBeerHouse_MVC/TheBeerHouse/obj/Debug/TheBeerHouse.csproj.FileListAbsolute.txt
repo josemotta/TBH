@@ -1,0 +1,11 @@
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\TheBeerHouse.dll
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\TheBeerHouse.pdb
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.dll
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.Web.dll
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.Web.pdb
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.pdb
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\ResolveAssemblyReference.cache
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.Properties.Resources.resources
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.csproj.GenerateResource.Cache
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.dll
+C:\_GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.pdb
