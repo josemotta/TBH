@@ -86,9 +86,6 @@ namespace TheBeerHouse.Controllers
 			ViewData["count"] = count;
 			ViewData["index"] = index;
 
-			var vote = dc.Votes.GetVote(postId, User.Identity.Name);
-			ViewData["userVote"] = vote == null ? (short)0 : vote.Direction;
-
 			return View(viewData);
 		}
 

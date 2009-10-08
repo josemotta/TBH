@@ -8,6 +8,19 @@ namespace TheBeerHouse.Models
 {
 	public partial class Post
 	{
+		public short UserVote
+		{
+			get
+			{
+				var user = HttpContext.Current.User;
+
+				if (user == null || user.Identity == null || !user.Identity.IsAuthenticated)
+					return (short)0;
+
+				return Votes.GetVoteDirection(user.Identity.Name);
+			}
+		}
+
 		/// <summary>
 		/// Get the avatar for the AddedBy user.
 		/// </summary>

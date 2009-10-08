@@ -8,9 +8,9 @@
 </div>
 
 <div class="right">
-<h3><%= Html.Encode(Model.Title) %>/h3>
+<h3><%= Html.Encode(Model.Title) %></h3>
 <p>SKU: <%= Html.Encode(Model.SKU) %></p>
-<p><%= Html.Encode(Model.Description) %></p>
+<p><%= Model.Description %></p>
 
 <p>Regular Price: <b><%= ViewData.Model.UnitPrice.ToString("C") %></b> | 
 Sale Price: <b><font color="red"><%= ((ViewData.Model.UnitPrice * (100 - ViewData.Model.DiscountPercentage)) / 100 ).ToString("C") %></font></b> | 

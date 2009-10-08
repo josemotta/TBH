@@ -118,22 +118,17 @@ hr {
 	height: 130px;
 }
 
-/*
 #logo h1, #logo h2 {
 	text-align: center;
 }
-*/
 
 #logo h1 {
 	padding-top: 16px;
 	font-size: 350%;
-	text-align: center;
-	font: bold 40px Verdana;
 }
 
 #logo h2 {
 	font-size: 150%;
-	text-align: center;
 }
 
 #logo a {

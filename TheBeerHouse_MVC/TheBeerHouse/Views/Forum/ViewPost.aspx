@@ -3,7 +3,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
 
 <% Html.RenderPartial("~/Views/Shared/Message.ascx"); %>
-<% var userVote = (int)ViewData["userVote"]; %>
+<% var userVote = Model.UserVote; %>
 
 <div id="posts">
 	<div id="post-<%= ViewData.Model.PostID %>" class="post">
@@ -12,7 +12,7 @@
 			<strong><%= ViewData.Model.VoteCount %></strong>
 			<a class="vote-down<%= userVote <= -1 ? " selected" : "" %>" href="#down">Dislike</a>
 		</div>
-		<%= Html.Encode(Model.Body) %>
+		<%= Model.Body %>
 		<div class="posted-last">
 			<span class="posted-at"><%= ViewData.Model.AddedDate.ToUtcTimeSinceString()%> ago</span>
 			<span class="posted-by">by <img src="<%= ViewData.Model.GetAddedByAvatarUrl(16) %>" /> <%= ViewData.Model.AddedBy%></span>
@@ -30,7 +30,7 @@
 			<a class="remove" meta:id="<%= post.PostID %>" href="#remove">remove</a>
 		</div>
 		<% } %>
-		<blockquote class="body"><%= Html.Encode(post.Body) %></blockquote>
+		<blockquote class="body"><%= post.Body %></blockquote>
 	</div>
 <% } %>
 	</div>

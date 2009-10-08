@@ -8,6 +8,15 @@ namespace TheBeerHouse.Models
 {
 	public static class ForumQueries
 	{
+		public static short GetVoteDirection(this EntitySet<Vote> source, string userName)
+		{
+			var query = from v in source
+						where v.AddedBy == userName
+						select v.Direction;
+
+			return query.SingleOrDefault();
+		}
+
 		/// <summary>
 		/// Gets the vote.
 		/// </summary>

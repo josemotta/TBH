@@ -16,7 +16,7 @@
 			<li><strong>Location: </strong>
 				<%= Html.Encode(Model.Location) %></li>
 		</ul>
-		<%= Html.Encode(Model.Body) %>
+		<%= Model.Body %>
 	</div>
 	<form method="post" action="#" class="rate-article">
 	<p class="field input">

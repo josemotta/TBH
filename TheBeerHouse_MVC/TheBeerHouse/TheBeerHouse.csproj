@@ -39,11 +39,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ManagedFusion, Version=1.0.3425.35492, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="ManagedFusion, Version=1.0.3550.32273, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Resources\ManagedFusion.dll</HintPath>
     </Reference>
-    <Reference Include="ManagedFusion.Web, Version=1.0.3425.35492, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="ManagedFusion.Web, Version=1.0.3550.32273, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\Resources\ManagedFusion.Web.dll</HintPath>
     </Reference>
@@ -488,7 +488,6 @@
     <Content Include="Content\scripts\manage-roles.js" />
     <Content Include="Content\scripts\manage-users.js" />
     <Content Include="Content\scripts\register.js" />
-    <Content Include="Content\styles\trendnet_nav_tabcontent_home.css" />
     <Content Include="Resources\Autumn Leaves.jpg" />
     <Content Include="Resources\Creek.jpg" />
     <Content Include="Resources\Desert Landscape.jpg" />

@@ -11,36 +11,14 @@
   </NAntValidationSettings>
   <RecentFiles>
     <RecentFiles>
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Article/f:Index.aspx" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Article/f:CreateArticle.aspx" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:Iso3166CountryCodes.cs" caret="136" fromTop="6" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:TheBeerHouse.designer.cs" caret="72041" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:ArticleQueries.cs" caret="1446" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:article.js" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Article/f:ViewArticle.aspx.cs" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Article/f:ViewArticle.aspx" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-articles.js" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:ArticleController.cs" caret="19327" fromTop="11" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/d:Article/f:CategoryItem.ascx" caret="704" fromTop="8" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:modules.css" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="0" fromTop="0" />
+      <File id="724162CE-0396-4E66-887D-877CA200942A/f:App.config" caret="1081" fromTop="15" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="9910" fromTop="139" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/d:ActionFilters/f:ServiceAttribute.cs" caret="876" fromTop="25" />
+      <File id="724162CE-0396-4E66-887D-877CA200942A/f:ArticleControllerTest.cs" caret="0" fromTop="0" />
+      <File id="724162CE-0396-4E66-887D-877CA200942A/f:NewsletterControllerTest.cs" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:ArticleController.cs" caret="19407" fromTop="24" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="4611" fromTop="45" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="6222" fromTop="45" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="5392" fromTop="38" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="5657" fromTop="41" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="5234" fromTop="29" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1568" fromTop="47" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1657" fromTop="40" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1702" fromTop="44" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="4239" fromTop="25" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="4239" fromTop="19" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1077" fromTop="18" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="5994" fromTop="36" />
+      <File id="724162CE-0396-4E66-887D-877CA200942A/f:App.config" caret="1081" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
