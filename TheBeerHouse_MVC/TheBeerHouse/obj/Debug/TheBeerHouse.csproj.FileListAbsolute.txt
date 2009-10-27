@@ -9,3 +9,18 @@ C:\Users\jo\Documents\Visual Studio 2008\Projects\TheBeerHouse_MVC\TheBeerHouse\
 C:\Users\jo\Documents\Visual Studio 2008\Projects\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.pdb
 C:\Users\jo\Documents\Visual Studio 2008\Projects\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.dll
 C:\Users\jo\Documents\Visual Studio 2008\Projects\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.pdb
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\TheBeerHouse.dll
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\TheBeerHouse.pdb
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.dll
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.Web.dll
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.Web.pdb
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\ManagedFusion.pdb
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\ResolveAssemblyReference.cache
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.Properties.Resources.resources
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.csproj.GenerateResource.Cache
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.dll
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\obj\Debug\TheBeerHouse.pdb
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\System.Web.Mvc.dll
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\System.Web.Routing.dll
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\System.Web.Mvc.xml
+C:\GIT\TBH\TheBeerHouse_MVC\TheBeerHouse\bin\System.Web.Abstractions.dll

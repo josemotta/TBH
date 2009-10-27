@@ -12,13 +12,39 @@
   <RecentFiles>
     <RecentFiles>
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:App.config" caret="1081" fromTop="15" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="9910" fromTop="139" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/d:ActionFilters/f:ServiceAttribute.cs" caret="876" fromTop="25" />
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:ArticleControllerTest.cs" caret="0" fromTop="0" />
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:NewsletterControllerTest.cs" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-categories.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-articles.js" caret="1375" fromTop="10" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Configuration/f:PollsElement.cs" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Configuration/f:TheBeerHouseSection.cs" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-polls.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-newsletter.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:jquery-1.3.2.min.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:jquery-1.3.2-vsdoc.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:poll.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Poll/f:ManagePolls.aspx" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="2140" fromTop="17" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-users.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:MicrosoftMvcAjax.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:register.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:global.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:modules.css" caret="4778" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1533" fromTop="37" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1179" fromTop="31" />
     </RecentFiles>
     <RecentEdits>
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:App.config" caret="1081" fromTop="15" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6345" fromTop="25" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6368" fromTop="28" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1901" fromTop="20" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="806" fromTop="21" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="2359" fromTop="17" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1608" fromTop="21" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1644" fromTop="25" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1179" fromTop="31" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>

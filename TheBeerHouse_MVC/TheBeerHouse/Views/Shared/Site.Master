@@ -19,16 +19,17 @@ Description: A two-column, fixed-width template suitable for small business webs
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />	
 	
-	<link href="/content/styles/site.css" rel="stylesheet" type="text/css" />
-	<link href="/content/styles/modules.css" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" href="http://trend.net.br/content/images/favicon.ico" />
+	<link rel="stylesheet" href="/content/styles/site.css" type="text/css" />
+	<link rel="stylesheet" href="/content/styles/modules.css" type="text/css" />
 	
 	<asp:ContentPlaceHolder ID="HeaderContent" runat="server" />
 </head>
 <body>
 <div id="header">
 	<div id="logo">
-		<h1><a href="/">Welcome To</a></h1>
-		<h2><a href="/">The Beer House.</a></h2>
+		<h1><a href="/">trend.net.br</a></h1>
+		<h2><a href="/">TRENDnet Brasil</a></h2>
 	</div>
 	<div id="menu">
 		<ul>
