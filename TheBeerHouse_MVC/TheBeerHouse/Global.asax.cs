@@ -54,8 +54,9 @@ namespace TheBeerHouse
 
 			routes.MapRoute(
 				"ArticleIndex",
-				"",
-				new { controller = "Article", action = "Index", category = (string)null, page = 1 }
+                //"",                   // home não é mais aqui
+                "articles",
+                new { controller = "Article", action = "Index", category = (string)null, page = 1 }
 			);
 
 			routes.MapRoute(
@@ -199,8 +200,9 @@ namespace TheBeerHouse
 
 			routes.MapRoute(
 				"NewsletterIndex",
-				"news",
-				new { controller = "Newsletter", action = "Index" }
+                //"news",               //altera home page para News
+                "",
+                new { controller = "Newsletter", action = "Index" }
 			);
 
 			#region Admin

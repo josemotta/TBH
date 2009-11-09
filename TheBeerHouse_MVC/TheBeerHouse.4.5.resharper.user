@@ -11,12 +11,10 @@
   </NAntValidationSettings>
   <RecentFiles>
     <RecentFiles>
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Poll/f:ManagePolls.aspx" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="2140" fromTop="17" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:manage-users.js" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:MicrosoftMvcAjax.js" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:register.js" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:global.js" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:PollQueries.cs" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:Extensions.cs" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:ShippingMethod.cs" caret="0" fromTop="0" />
@@ -31,19 +29,20 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:CommerceController.cs" caret="3973" fromTop="28" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:modules.css" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1319" fromTop="12" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1287" fromTop="40" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Message.ascx" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:ArticleController.cs" caret="7152" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:Iso3166CountryCodes.cs" caret="230" fromTop="8" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="5325" fromTop="194" />
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:NewsletterControllerTest.cs" caret="336" fromTop="10" />
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:ArticleControllerTest.cs" caret="774" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1707" fromTop="8" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:NewsletterController.cs" caret="514" fromTop="5" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="351" fromTop="5" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="1927" fromTop="14" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:global.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:poll.js" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="5565" fromTop="27" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="4056" fromTop="21" />
     </RecentFiles>
     <RecentEdits>
-      <File id="724162CE-0396-4E66-887D-877CA200942A/f:App.config" caret="1081" fromTop="15" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6345" fromTop="25" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6368" fromTop="28" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1896" fromTop="20" />
@@ -60,7 +59,6 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="614" fromTop="17" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="234" fromTop="9" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1445" fromTop="29" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="5338" fromTop="201" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="2850" fromTop="8" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="3218" fromTop="13" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="4089" fromTop="17" />
@@ -70,7 +68,11 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1364" fromTop="11" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="3609" fromTop="11" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="4790" fromTop="18" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="351" fromTop="5" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="5494" fromTop="152" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="1614" fromTop="6" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="379" fromTop="5" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="3323" fromTop="26" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="4056" fromTop="21" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>

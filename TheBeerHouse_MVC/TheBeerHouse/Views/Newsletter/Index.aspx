@@ -3,6 +3,6 @@
 <asp:Content ID="MainContent" ContentPlaceHolderID="MainContent" runat="server">
 
 <% Html.RenderPartial("~/Views/Shared/Message.ascx"); %>
-<p>If you would like to subscribe to our newsletter, please go to <a href="/User/UserProfile">your user profile</a>, and select your subscription type.</p>
+<p>Se você quiser receber nossa newsletter, favor navegar para <a href="/User/UserProfile">seu cadastro</a> e selecionar o tipo de assinatura desejado.</p>
 
 </asp:Content>
