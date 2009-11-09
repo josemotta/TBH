@@ -39,8 +39,8 @@
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:NewsletterControllerTest.cs" caret="336" fromTop="10" />
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:ArticleControllerTest.cs" caret="774" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1707" fromTop="8" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:NewsletterController.cs" caret="514" fromTop="11" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:NewsletterController.cs" caret="514" fromTop="5" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="351" fromTop="5" />
     </RecentFiles>
     <RecentEdits>
       <File id="724162CE-0396-4E66-887D-877CA200942A/f:App.config" caret="1081" fromTop="15" />
@@ -70,6 +70,7 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1364" fromTop="11" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="3609" fromTop="11" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="4790" fromTop="18" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="351" fromTop="5" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
