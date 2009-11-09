@@ -7,7 +7,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF url(/content/images/centerstage/img01.gif) repeat-x;
+	background: #FFFFFF url(/content/images/centerstage/img01.png) repeat-x;
 	font-family: Georgia, "Times New Roman", Times, serif;
 	font-size: 13px;
 	color: #666666;
@@ -109,7 +109,7 @@ hr {
 	width: 700px;
 	height: 175px;
 	margin: 0 auto;
-	background: #A4C0C8 url(/content/images/centerstage/img02.jpg) no-repeat;
+	background: #A4C0C8 url(/content/images/centerstage/img02.png) no-repeat;
 }
 
 /* Logo */
@@ -119,34 +119,36 @@ hr {
 }
 
 #logo h1, #logo h2 {
-	text-align: center;
+	text-align: left;
 }
 
 #logo h1 {
 	padding-top: 16px;
-	font-size: 150%;
+	font-size: 200%;
 }
 
 #logo h2 {
-	font-size: 350%;
+	font-size: 300%;
+	font-weight: bold;
 }
 
 #logo a {
 	text-decoration: none;
-	color: #3F586B;
+	color: #FFFFFF;         /* letra logo color: #3F586B;*/
+	font-family: Verdana;	
 }
 
 /* Menu */
 
 #menu {
 	width: 600px;
-	float: right;
+	float: left;
 	padding-top: 0;
 }
 
 #menu ul {
 	margin: 0;
-	padding: 10px 0 0 0;
+	padding: 20px 0 0 0;
 	list-style: none;
 	line-height: normal;
 	text-align: center;
@@ -163,7 +165,7 @@ hr {
 	text-decoration: none;
 	font-size: 136%;
 	font-weight: bold;
-	color: #610720;
+	color: #FFFFF0;
 }
 
 #menu a:hover {

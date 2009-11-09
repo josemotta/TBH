@@ -20,7 +20,7 @@ namespace TheBeerHouse.Controllers
 		/// <returns></returns>
 		public ActionResult Index()
 		{
-			ViewData["PageTitle"] = "Newsletters";
+			ViewData["PageTitle"] = "News";
 
 			return View();
 		}

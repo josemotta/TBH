@@ -199,7 +199,7 @@ namespace TheBeerHouse
 
 			routes.MapRoute(
 				"NewsletterIndex",
-				"newsletters",
+				"news",
 				new { controller = "Newsletter", action = "Index" }
 			);
 

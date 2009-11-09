@@ -248,8 +248,7 @@
     <Content Include="Content\images\3beers.jpg" />
     <Content Include="Content\images\Beers.gif" />
     <Content Include="Content\images\Camera.gif" />
-    <Content Include="Content\images\centerstage\img01.gif" />
-    <Content Include="Content\images\centerstage\img02.jpg" />
+    <Content Include="Content\images\centerstage\img01.original.gif" />
     <Content Include="Content\images\centerstage\img03.jpg" />
     <Content Include="Content\images\centerstage\img04.gif" />
     <Content Include="Content\images\DeleteSymbol.png" />
@@ -458,7 +457,6 @@
     <Content Include="Content\scripts\tiny_mce\utils\mctabs.js" />
     <Content Include="Content\scripts\tiny_mce\utils\validate.js" />
     <Content Include="Content\styles\modules.css" />
-    <Content Include="Content\styles\site.css" />
     <Content Include="Views\Shared\Site.Master" />
     <Content Include="Views\Web.config" />
     <None Include="Models\ArticlesClassDiagram.cd" />
@@ -487,11 +485,14 @@
       <Generator>GlobalResourceProxyGenerator</Generator>
       <LastGenOutput>Messages.designer.cs</LastGenOutput>
     </Content>
+    <Content Include="Content\images\centerstage\img02.original.jpg" />
     <Content Include="Content\images\favicon.ico" />
     <Content Include="Content\scripts\commerece.js" />
     <Content Include="Content\scripts\manage-roles.js" />
     <Content Include="Content\scripts\manage-users.js" />
     <Content Include="Content\scripts\register.js" />
+    <Content Include="Content\styles\site.css" />
+    <Content Include="Content\styles\site.original.css" />
     <Content Include="Resources\Autumn Leaves.jpg" />
     <Content Include="Resources\Creek.jpg" />
     <Content Include="Resources\Desert Landscape.jpg" />
