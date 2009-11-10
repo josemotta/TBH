@@ -19,7 +19,7 @@ Description: A two-column, fixed-width template suitable for small business webs
 
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />	
 	
-	<link rel="shortcut icon" href="http://trend.net.br/content/images/favicon.ico" />
+	<link rel="shortcut icon" href="/content/images/favicon.ico" />
 	<link rel="stylesheet" href="/content/styles/site.css" type="text/css" />
 	<link rel="stylesheet" href="/content/styles/modules.css" type="text/css" />
 	
@@ -28,7 +28,7 @@ Description: A two-column, fixed-width template suitable for small business webs
 <body>
 <div id="header">
 	<div id="logo">
-		<h1><a href="/">trend.net.br</a></h1>
+		<h1><a href="/">www.trend.net.br</a></h1>
 		<h2><a href="/">TRENDnet Brasil</a></h2>
 	</div>
 	<div id="menu">

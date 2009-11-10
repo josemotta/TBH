@@ -248,7 +248,6 @@
     <Content Include="Content\images\3beers.jpg" />
     <Content Include="Content\images\Beers.gif" />
     <Content Include="Content\images\Camera.gif" />
-    <Content Include="Content\images\centerstage\img01.original.gif" />
     <Content Include="Content\images\centerstage\img03.jpg" />
     <Content Include="Content\images\centerstage\img04.gif" />
     <Content Include="Content\images\DeleteSymbol.png" />
@@ -485,7 +484,8 @@
       <Generator>GlobalResourceProxyGenerator</Generator>
       <LastGenOutput>Messages.designer.cs</LastGenOutput>
     </Content>
-    <Content Include="Content\images\centerstage\img02.original.jpg" />
+    <Content Include="Content\images\centerstage\img01.png" />
+    <Content Include="Content\images\centerstage\img02.png" />
     <Content Include="Content\images\favicon.ico" />
     <Content Include="Content\scripts\commerece.js" />
     <Content Include="Content\scripts\manage-roles.js" />
