@@ -492,7 +492,7 @@
     <Content Include="Content\scripts\manage-users.js" />
     <Content Include="Content\scripts\register.js" />
     <Content Include="Content\styles\site.css" />
-    <Content Include="Content\styles\site.original.css" />
+    <Content Include="favicon.ico" />
     <Content Include="Resources\Autumn Leaves.jpg" />
     <Content Include="Resources\Creek.jpg" />
     <Content Include="Resources\Desert Landscape.jpg" />

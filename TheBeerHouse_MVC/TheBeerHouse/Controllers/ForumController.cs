@@ -49,7 +49,7 @@ namespace TheBeerHouse.Controllers
 			int count = Configuration.TheBeerHouseSection.Current.Forums.PostsPageSize;
 			int index = (page - 1) * count;
 
-			ViewData["PageTitle"] = forum.Title + " Forum";
+			ViewData["PageTitle"] = forum.Title;    // retirei " [+ "Forum"] do titulo do post
 			ViewData["count"] = count;
 			ViewData["index"] = index;
 

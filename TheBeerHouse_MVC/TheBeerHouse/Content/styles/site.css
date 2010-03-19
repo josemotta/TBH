@@ -134,7 +134,7 @@ hr {
 
 #logo a {
 	text-decoration: none;
-	color: #FFFFFF;         /* letra logo color: #3F586B;*/
+	color: #FFFFFF;         /* original color: #3F586B; mudei pra branco */
 	font-family: Verdana;	
 }
 
@@ -151,7 +151,7 @@ hr {
 	padding: 20px 0 0 0;
 	list-style: none;
 	line-height: normal;
-	text-align: center;
+	text-align: left;         /* original center */
 }
 
 #menu li {

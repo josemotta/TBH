@@ -30,23 +30,19 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Message.ascx" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:ArticleController.cs" caret="7152" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Models/f:Iso3166CountryCodes.cs" caret="230" fromTop="8" />
-      <File id="724162CE-0396-4E66-887D-877CA200942A/f:NewsletterControllerTest.cs" caret="336" fromTop="10" />
-      <File id="724162CE-0396-4E66-887D-877CA200942A/f:ArticleControllerTest.cs" caret="774" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Global.asax.cs" caret="1927" fromTop="14" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:global.js" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:scripts/f:poll.js" caret="0" fromTop="0" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/f:Web.config" caret="0" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="4056" fromTop="44" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="2410" fromTop="18" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="779" fromTop="9" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:NewsletterController.cs" caret="514" fromTop="0" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="305" fromTop="5" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/f:Web.config" caret="0" fromTop="0" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="0" fromTop="0" />
     </RecentFiles>
     <RecentEdits>
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6345" fromTop="25" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6368" fromTop="28" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6397" fromTop="25" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1881" fromTop="20" />
-      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="2359" fromTop="17" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1595" fromTop="24" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1726" fromTop="50" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Content/d:styles/f:site.css" caret="1552" fromTop="40" />
@@ -60,9 +56,7 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="2835" fromTop="8" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="3203" fromTop="13" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="4074" fromTop="17" />
-      <File id="724162CE-0396-4E66-887D-877CA200942A/f:ArticleControllerTest.cs" caret="1300" fromTop="17" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Controllers/f:NewsletterController.cs" caret="514" fromTop="8" />
-      <File id="724162CE-0396-4E66-887D-877CA200942A/f:NewsletterControllerTest.cs" caret="1221" fromTop="31" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1349" fromTop="11" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="3594" fromTop="11" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="4775" fromTop="18" />
@@ -73,6 +67,9 @@
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="1109" fromTop="18" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Shared/f:Site.Master" caret="779" fromTop="9" />
       <File id="7F12F089-7C02-46EF-81C1-87910051A903/d:Views/d:Newsletter/f:Index.aspx" caret="304" fromTop="5" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6128" fromTop="21" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="6372" fromTop="27" />
+      <File id="7F12F089-7C02-46EF-81C1-87910051A903/f:Web.config" caret="2374" fromTop="18" />
     </RecentEdits>
   </RecentFiles>
   <UnitTestRunner>
